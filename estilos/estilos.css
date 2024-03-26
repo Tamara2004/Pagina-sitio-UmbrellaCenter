@@ -1,0 +1,98 @@
+h1
+{
+	background-color: #47c9af;
+	text-align: left;
+	font-family: "Gabriola";
+	line-height: 140px;
+	font-size: 80px;
+	color: #FFFFFF;
+	margin-top:30px;
+	
+
+}
+
+h
+{
+	
+	text-align: right;
+	
+}
+
+nav ul li
+{
+	font-family:"Indie Flower";
+	font-size:20px;
+	display: inline-block;
+	margin-right: 30px;
+	margin-left: 80px;
+	margin-top:10px;
+	cursor:pointer;	
+	color: #FFFFFF;
+}
+
+nav ul 
+{
+
+	background-color:#47c9af;
+	font-family:"Indie Flower";
+	
+}
+
+a
+{
+	color: #FFFFFF;
+}
+
+tr
+{
+	background-color: #47c9af;
+	text-align:center;
+}
+
+th
+{
+	font-family: "Indie Flower";
+	color: #FFFFFF;
+	background-color: #47c9af;
+}
+
+td
+{
+	font-family: "Gabriola";
+	color: #FFFFFF;
+	background-color: #47c9af;
+}
+
+h6
+{	
+	font-family: "Gabriola";
+	font-size:30px;
+	color:#47c9af;
+}
+
+article
+{
+	
+	font-family: "Gabriola";
+	font-size:20px;
+	color:#47c9af;
+
+	}
+
+footer
+{
+	position:relative;
+	margin-top: 130px;
+	height: 40px;
+	padding:5px 0px;
+	clear:both;
+	background:#06F;
+	text-align:center;
+	color:#fff;
+}
+.define
+{
+	width:300px;
+	margin:0 auto;
+	
+}

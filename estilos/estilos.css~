@@ -1,0 +1,29 @@
+h1
+{
+border-width:10px;
+background-color:#fff667;
+border-color:red;
+text-align:center;
+border-style: groove;
+line-height: 70px;
+	font-size:40px;
+
+}
+nav ul li
+{
+	
+	font-family:"Elephant";
+	display: inline-block;
+	margin-right: 70px;
+	margin-left: 100px;
+
+	cursor:pointer;	
+}
+
+nav ul 
+{
+	border-width:10px;
+	border-style: ridge;
+	background-color:#FFD700;
+	border-color:orange;
+}

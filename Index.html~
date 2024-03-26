@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Clinica">
+	<meta name="keywords" content="web, html5, etiqueta,tittle">
+	<title>Umbrella Center</title>
+	<link rel="stylesheet" href="./estilos/estilos.css">
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+	
+</head>	
+<body>
+
+<header>
+  
+  <h1><img src ="./imagenes/umbrellacenter.png" width="166" height="136" align=left margin-top: 30px margin-left: 30px;;>UMBRELLA</h1>
+ 
+</header>
+<div id="menu">
+<nav>
+	<ul>
+		<li><strong>Home</strong></li>
+		<li><strong>Programas</strong></li>
+		<li><strong>Convenios</strong></li>
+		<li><strong>Centro Ambulatorio</strong></li>
+		<li> <strong><a href = "./indexnoticias.html">Noticias</a> </strong></li>
+		<li><strong>Intranet</strong></li>
+	</ul>	
+  </div>
+<p><table width="200" border="1">
+  <tr>
+    <th scope="col">	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/cardiologia.jpg" alt="Cardiología" title="Cardiología" id="wows1_0"/></li>
+		<li><img src="data1/images/geriatria.jpg" alt="Geriatría" title="Geriatría" id="wows1_1"/></li>
+		<li><img src="data1/images/ginecologia.jpg" alt="Ginecología" title="Ginecología" id="wows1_2"/></li>
+		<li><img src="data1/images/odontologia.jpg" alt="Odontoloía" title="Odontoloía" id="wows1_3"/></li>
+		<li><img src="data1/images/oftalmologia.jpg" alt="Oftalmología" title="Oftalmología" id="wows1_4"/></li>
+		<li><a href="http://wowslider.com"><img src="data1/images/pediatria.jpg" alt="slider js" title="Pediatría" id="wows1_5"/></a></li>
+		<li><img src="data1/images/traumaologia.jpg" alt="Traumaología" title="Traumaología" id="wows1_6"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Cardiología"><span><img src="data1/tooltips/cardiologia.jpg" alt="Cardiología"/>1</span></a>
+		<a href="#" title="Geriatría"><span><img src="data1/tooltips/geriatria.jpg" alt="Geriatría"/>2</span></a>
+		<a href="#" title="Ginecología"><span><img src="data1/tooltips/ginecologia.jpg" alt="Ginecología"/>3</span></a>
+		<a href="#" title="Odontoloía"><span><img src="data1/tooltips/odontologia.jpg" alt="Odontoloía"/>4</span></a>
+		<a href="#" title="Oftalmología"><span><img src="data1/tooltips/oftalmologia.jpg" alt="Oftalmología"/>5</span></a>
+		<a href="#" title="Pediatría"><span><img src="data1/tooltips/pediatria.jpg" alt="Pediatría"/>6</span></a>
+		<a href="#" title="Traumaología"><span><img src="data1/tooltips/traumaologia.jpg" alt="Traumaología"/>7</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">joomla slideshow</a> by WOWSlider.com v8.2</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section --></th>
+  </tr>
+</table>
+</p>
+
+
+
+
+
+
+<h3>Principal Centro de Cirugía Robótica en Chile.</h3>
+<p><img src ="./imagenes/noticia3.jpg" HEIGHT="247" width="68%" ></p>
+<h4>Líderes en realizar cirugía robótica, Clínica Salud cuenta con especialistas capacitados y con vasta experiencia en esta revolucionaria tecnología, destacándose la cirugía urológica, digestiva, torácica y ginecológica.<br>
+  <br>
+  Así desde el año 2010, la institución ofrece a sus pacientes una alternativa quirúrgica mínimamente invasiva con más y mejores beneficios.<br>
+  <br>
+  Sin embargo, cabe destacar que la Cirugía Robótica puede presentar los mismos riesgos que la cirugía tradicional y laparoscopica.<br>
+  <br>
+</h4>
+<div>
+  <h2>¿Qué es?</h2>
+  <p>La Cirugía Robótica es un procedimiento que permite al cirujano intervenir quirúrgicamente a un paciente a través de los movimientos de un Robot. <br>
+    <br>
+  </p>
+  <h2>¿Cómo lo hace?</h2>
+  <p>El especialista se encuentra en una consola que está ubicada distante del paciente y que envía la información al Robot, el que finalmente ejecuta de manera precisa las órdenes enviadas por el cirujano.</p>
+</div>
+<footer id="page_footer">
+  <p>&copy; 2015 Derechos Reservados / Leslies Baeza - Gustavo Gacitua - Miguel Ibarra.</p>
+</footer>
+</body>
+</html>
